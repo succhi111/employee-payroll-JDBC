@@ -17,7 +17,7 @@ public class EmployeePayrollDB {
         /**
          * sql password
          */
-        String password = "Srushti@1999";
+        String password = "badshah";
         listDrivers();
         try {
             System.out.println("Connecting to Database: " + jdbcURL);
